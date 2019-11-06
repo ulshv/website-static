@@ -1,68 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Sergey's Blog]]></title><description><![CDATA[Personal blog]]></description><link>https://sergey.blog</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 05 Nov 2019 22:12:31 GMT</lastBuildDate><item><title><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit на русском]]></title><description><![CDATA[Lorem ipsum на русском, дальше бессмысленный текст: dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore…]]></description><link>https://sergey.blog/2019/01-hello-world/index_ru/</link><guid isPermaLink="false">https://sergey.blog/2019/01-hello-world/index_ru/</guid><pubDate>Sat, 05 Oct 2019 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem ipsum на русском, дальше бессмысленный текст: dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut &lt;strong&gt;&lt;em&gt;labore et dolore&lt;/em&gt;&lt;/strong&gt; magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;&amp;lt;Helmet
-  htmlAttributes={{
-    lang: langKey,
-  }}
-  title={title}
-  titleTemplate={`%s | ${headerTitle}`}
-  meta={[]}
-/&amp;gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Дорога в 1000 миль начинается с первого шага&lt;br/&gt;
-— &lt;b&gt;Древняя китайская пословица&lt;/b&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;/7d1cc68d947e90b49f5681ca3126f8f1/just-do-it.gif&quot; alt=&quot;Just Do It!&quot;&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit]]></title><description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim…]]></description><link>https://sergey.blog/2019/01-hello-world/</link><guid isPermaLink="false">https://sergey.blog/2019/01-hello-world/</guid><pubDate>Sat, 05 Oct 2019 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-&lt;p&gt;Sed ut perspiciatis, unde omnis iste natus:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Lorem ipsum dolor sit amet&lt;/li&gt;
-&lt;li&gt;Consectetur adipiscing elit, sed do eiusmod&lt;/li&gt;
-&lt;li&gt;Duis aute irure dolor in reprehenderit in voluptate&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Other list:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Deserunt mollit anim id est laborum&lt;/li&gt;
-&lt;li&gt;Excepteur sint occaecat cupidatat non proident&lt;/li&gt;
-&lt;/ol&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-deserunt mollit anim id est laborum.&lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;— &lt;a href=&quot;https://ru.wikipedia.org/wiki/Lorem_ipsum&quot;&gt;Lorem ipsum dolor sit amet&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/2b40c/salty_egg.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/aAAwDAQACEAMQAAABgik0dXC//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACEhEy/9oACAEBAAEFAkqW2DlnRj73yf/EABcRAQADAAAAAAAAAAAAAAAAAAAREkH/2gAIAQMBAT8B1WX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQL/2gAIAQIBAT8Bi6f/xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIRISIxMv/aAAgBAQAGPwK9GNocyS8hCj//xAAbEAADAQADAQAAAAAAAAAAAAABESEAMUGBof/aAAgBAQABPyGxNMfrLHmCDZmAzzvJJDjEQCHv/9oADAMBAAIAAwAAABDIL//EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAgBAwEBPxARhylZv//EABgRAAIDAAAAAAAAAAAAAAAAAAABESFR/9oACAECAQE/EFoktI//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAxIWFBcYHh/9oACAEBAAE/EEbMLQ0fMHDVaPIXyI4pk4JUnWacNCtO8ojDE9TGIYES7/Jn/9k=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Image&quot;
-        title=&quot;Image&quot;
-        src=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/c739e/salty_egg.jpg&quot;
-        srcset=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/8ee9c/salty_egg.jpg 148w,
-/static/8058f3f26913fea3b6a89a73344fe94a/ebbe7/salty_egg.jpg 295w,
-/static/8058f3f26913fea3b6a89a73344fe94a/c739e/salty_egg.jpg 590w,
-/static/8058f3f26913fea3b6a89a73344fe94a/5413e/salty_egg.jpg 885w,
-/static/8058f3f26913fea3b6a89a73344fe94a/4efde/salty_egg.jpg 1180w,
-/static/8058f3f26913fea3b6a89a73344fe94a/2b40c/salty_egg.jpg 2048w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat!&lt;/p&gt;
-&lt;!-- ![Just Do It!](./just-do-it.gif) --&gt;</content:encoded></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Sergey's Blog]]></title><description><![CDATA[Personal blog]]></description><link>https://sergey.blog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 06 Nov 2019 17:50:57 GMT</lastBuildDate><item><title><![CDATA[Why I started my blog]]></title><description><![CDATA[Work-in-progress… Meanwhile, you can read this article in Russian:  Для чего я завел свой блог]]></description><link>https://sergey.blog/2019/01-first-post/</link><guid isPermaLink="false">https://sergey.blog/2019/01-first-post/</guid><pubDate>Mon, 07 Oct 2019 12:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Work-in-progress…&lt;/h3&gt;
+&lt;p&gt;Meanwhile, you can read this article in Russian: &lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/для-чего-я-завел-свой-блог&quot;&gt;Для чего я завел свой блог&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Для чего я завел свой блог]]></title><description><![CDATA[В последнее время мне много о чем хочется написать, поделиться своим профессиональным и жизненным
+опытом, мыслями, идеями и т.д. Поэтому я…]]></description><link>https://sergey.blog/2019/01-first-post/index_ru/</link><guid isPermaLink="false">https://sergey.blog/2019/01-first-post/index_ru/</guid><pubDate>Mon, 07 Oct 2019 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;В последнее время мне много о чем хочется написать, поделиться своим профессиональным и жизненным
+опытом, мыслями, идеями и т.д. Поэтому я завел этот блог, куда буду кидать все свои записи.&lt;/p&gt;
+&lt;!-- В первую очередь хочется писать это не для какой-то конкретной аудитории --&gt;
+&lt;!-- В последнее время у меня наконец-то появилось немного свободного от работы времени, которое я могу
+потратить на то, чтобы делиться с миром своим опытом, мыслями и идеями на самые разные темы.
+
+У меня уже есть список, первых 10 статей, которые уже очень давно хотелось написать.
+Так что скоро ждите их публикаций 🙂. --&gt;
+&lt;h3&gt;Зачем свой сайт, а не Instagram, VK и т.д.?&lt;/h3&gt;
+&lt;p&gt;До этого мне не особо хотелось публиковать длинные статьи в соц.сетях, т.к. формат постов в соц.сетях не позволяют мне оформлять их так как я хочу: лонгриды, с графиками, фотогаллереями внутри текста, примерами кода, цитатами, встроенными аудио/видео блоками, таблицами и т.п.&lt;/p&gt;
+&lt;p&gt;Конечно, есть платформы на которых я могу создавать сложно оформленные статьи (Medium, Habr, LJ и т.д.).&lt;/p&gt;
+&lt;!-- До этого мне не особо хотелось публиковать длинные статьи в соц.сетях. Тем более эти форматы и платформы не позволяют мне публиковать так как я хочу - лонгриды, с графиками, фотогаллереями внутри текста, примерами кода, цитатами и т.п. Конечно, есть платформы на которых я могу создавать сложно оформленные статьи
+(Medium, LJ и т.д.). --&gt;
+&lt;p&gt;Но мне было крайне необходимо, чтобы одним кликом можно было перейти с русской версии сайта - на английский - и наоборот. Т.к. аудитория, которой были бы интересны мои статьи - коллеги/друзья/знакомые/родственники - говорят на одном из этих двух языков, но контент будет интересен и тем и другим 🙂.&lt;/p&gt;
+&lt;!-- К тому же, мне было крайне необходимо, чтобы одним кликом можно было перейти с русской версии - на английский - и наоборот. Т.к. аудитория, которой были бы интересны мои статьи - коллеги/друзья/знакомые/родственники - говорят на одном из этих двух языков, но контент должен быть интересен и тем и другим 🙂. --&gt;
+&lt;p&gt;А потом уже делиться ссылкой на статью (или делать перепост) в конкретную соц.сеть или платформу,
+только на те темы и на том языке, которая была бы нацелена на конкретную аудиторию, в зависимости от
+платформы (VK, Instagram, Twitter, Habr, Medium, Hacker News, Reddit, vc.ru, и т.д.).&lt;/p&gt;
+&lt;p&gt;Уже не говорю о том, что на своем сайте можно сделать что хочешь! Скоро подъедут тёмная тема оформления
+и фильтрация статей по интересам на главной странице. Да и неплохо было бы иметь свою тихую гавань
+на просторах огромного интернета 🙂&lt;/p&gt;
+&lt;!-- Поэтому для того чтобы все перемешивать их ленту постами на 2-х языках, я решил публиковать
+их бок-о-бок в одном месте. Тем более, когда современные соц.сети слишком сильно загружены
+информацией - неплохо было бы иметь свою тихую гавань на просторах огромного интернета 🙂 --&gt;
+&lt;!-- ```
+(привести скриншоты различных платформ, vk, insta, medium, etc.) - почему эти платформы плохи,
+когда читатель заходит в твой аккаунт - и видит разбросанный контент.
+``` --&gt;
+&lt;h3&gt;О чем буду писать&lt;/h3&gt;
+&lt;p&gt;Буду публиковать статьи о самых разных темах, которые мне интересны. Конечно же, в первую очередь это
+программирование, но этим я ограничиваться не собираюсь. Также будут статьи о путешествиях, ведению
+бизнеса, финансах, лайфхаках. Будут краткие конспекты на прочитанные книги, ссылки с комментариями на интересные статьи, отчеты с поездок, и многое другое!&lt;/p&gt;</content:encoded></item></channel></rss>
