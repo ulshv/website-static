@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Sergey's Blog]]></title><description><![CDATA[Personal blog]]></description><link>https://sergey.blog</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 07 Nov 2019 10:43:38 GMT</lastBuildDate><item><title><![CDATA[Почему я решил начать вести свой блог]]></title><description><![CDATA[В последнее время мне много о чем хочется написать, поделиться своим профессиональным и жизненным
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Sergey's Blog]]></title><description><![CDATA[Personal blog]]></description><link>https://sergey.blog</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 07 Nov 2019 12:57:31 GMT</lastBuildDate><item><title><![CDATA[Почему я решил начать вести свой блог]]></title><description><![CDATA[В последнее время мне много о чем хочется написать, поделиться своим профессиональным и жизненным
 опытом, мыслями, идеями и т.д. Поэтому я…]]></description><link>https://sergey.blog/2019/01-first-post/index_ru/</link><guid isPermaLink="false">https://sergey.blog/2019/01-first-post/index_ru/</guid><pubDate>Mon, 07 Oct 2019 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;В последнее время мне много о чем хочется написать, поделиться своим профессиональным и жизненным
 опытом, мыслями, идеями и т.д. Поэтому я завел этот блог, куда буду кидать все свои записи.&lt;/p&gt;
 &lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
@@ -20,7 +20,7 @@
   &lt;img
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Sergey with laptop&quot;
-        title=&quot;Работаю, где на побережье Средиземного моря&quot;
+        title=&quot;Работаю, где-то на побережье Средиземного моря&quot;
         src=&quot;/static/3992ab9b183ee5878ba6c0ea40ef6c48/8854f/sergey.jpg&quot;
         srcset=&quot;/static/3992ab9b183ee5878ba6c0ea40ef6c48/3b5c6/sergey.jpg 158w,
 /static/3992ab9b183ee5878ba6c0ea40ef6c48/434a1/sergey.jpg 315w,
@@ -34,7 +34,7 @@
   &lt;/a&gt;
     &lt;/span&gt;
     &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;
-      &lt;p class=&quot;figcaption-title&quot;&gt;Работаю, где на побережье Средиземного моря&lt;/p&gt;
+      &lt;p class=&quot;figcaption-title&quot;&gt;Работаю, где-то на побережье Средиземного моря&lt;/p&gt;
       &lt;/figcaption&gt;
   &lt;/figure&gt;&lt;/p&gt;
 &lt;!-- ![Sergey with laptop](./sergey.jpg &quot;Me somewhere in Mediterranean Sea coast&quot;) --&gt;
@@ -57,7 +57,7 @@
 на те темы и на том языке, которая была бы нацелена на конкретную аудиторию, в зависимости от
 интересов читателей и платформы (VK, Instagram, LinkedIn, Twitter, Habr, Medium, Hacker News,
 Reddit, vc.ru, LifeHacker и т.д.).&lt;/p&gt;
-&lt;p&gt;К примеру. Статьей на английском на тему Clean architecture в веб-приложениях я скорее всего поделюсь
+&lt;p&gt;К примеру. Статьёй на английском на тему Clean architecture в веб-приложениях я скорее всего поделюсь
 в Twitter и на HackerNews. О том, как грамотно сделать налоговый вычет для ИП на УСН - на vc.ru.
 Всякие лайфхаки и &lt;strong&gt;не&lt;/strong&gt;технические статьи могу в принципе на обеих языках написать
 и поделится в vk, instagram, и т.п.&lt;/p&gt;
@@ -67,6 +67,53 @@ Reddit, vc.ru, LifeHacker и т.д.).&lt;/p&gt;
 &lt;p&gt;Буду публиковать статьи на самые разные темы, которые мне интересны. Конечно же, в первую очередь это
 программирование, но этим я ограничиваться не собираюсь. Также будут статьи о путешествиях, ведению
 бизнеса, финансах, лайфхаках. Будут краткие конспекты на прочитанные книги, ссылки с комментариями
-на интересные статьи, отчеты с поездок, и многое другое!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Why I decided to start blogging]]></title><description><![CDATA[Work-in-progress… Meanwhile, you can read this article in Russian:  Для чего я завел свой блог]]></description><link>https://sergey.blog/2019/01-first-post/</link><guid isPermaLink="false">https://sergey.blog/2019/01-first-post/</guid><pubDate>Mon, 07 Oct 2019 12:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;Work-in-progress…&lt;/h3&gt;
-&lt;p&gt;Meanwhile, you can read this article in Russian: &lt;br/&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;/для-чего-я-завел-свой-блог&quot;&gt;Для чего я завел свой блог&lt;/a&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
+на интересные статьи, отчеты с поездок, и многое другое!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Why I decided to start blogging]]></title><description><![CDATA[I’ve been wanting to write a lot lately. Mainly to share my professional and life experience, thoughts and ideas. So I started this blog as…]]></description><link>https://sergey.blog/2019/01-first-post/</link><guid isPermaLink="false">https://sergey.blog/2019/01-first-post/</guid><pubDate>Mon, 07 Oct 2019 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;I’ve been wanting to write a lot lately. Mainly to share my professional and life experience, thoughts and ideas. So I started this blog as a single place where I’ll put all my writings.&lt;/p&gt;
+&lt;p&gt;&lt;figure class=&quot;gatsby-resp-image-figure&quot; style=&quot;&quot;&gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 630px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3992ab9b183ee5878ba6c0ea40ef6c48/e8bf0/sergey.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 74.9217935349322%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAEaKypYwA//xAAaEAACAwEBAAAAAAAAAAAAAAABAgAREhMi/9oACAEBAAEFAnNt0S9rEDGL4XQM/8QAFhEBAQEAAAAAAAAAAAAAAAAAABIR/9oACAEDAQE/AZ1D/8QAFxEBAAMAAAAAAAAAAAAAAAAAABESE//aAAgBAgEBPwG0NH//xAAaEAACAgMAAAAAAAAAAAAAAAAAAREhECIx/9oACAEBAAY/AoWrXcyOpKP/xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhMUFhcaH/2gAIAQEAAT8hzEpscpMgzZue8pGq8N/IhVEteRRej1P/2gAMAwEAAgADAAAAEGMf/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAEDAQE/EIwp/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAh/9oACAECAQE/EFaj/8QAHRAAAgMAAgMAAAAAAAAAAAAAAREAITFBYVGR8P/aAAgBAQABPxBJRiPhzAQNsQGQKz1l7FYg6RPzvUNtxniBm1ahAIMYpP/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Sergey with laptop&quot;
+        title=&quot;Me working somewhere in the Mediterranean Sea coast&quot;
+        src=&quot;/static/3992ab9b183ee5878ba6c0ea40ef6c48/8854f/sergey.jpg&quot;
+        srcset=&quot;/static/3992ab9b183ee5878ba6c0ea40ef6c48/3b5c6/sergey.jpg 158w,
+/static/3992ab9b183ee5878ba6c0ea40ef6c48/434a1/sergey.jpg 315w,
+/static/3992ab9b183ee5878ba6c0ea40ef6c48/8854f/sergey.jpg 630w,
+/static/3992ab9b183ee5878ba6c0ea40ef6c48/3cac0/sergey.jpg 945w,
+/static/3992ab9b183ee5878ba6c0ea40ef6c48/0646d/sergey.jpg 1260w,
+/static/3992ab9b183ee5878ba6c0ea40ef6c48/e8bf0/sergey.jpg 3836w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+    &lt;figcaption class=&quot;gatsby-resp-image-figcaption&quot;&gt;
+      &lt;p class=&quot;figcaption-title&quot;&gt;Me working somewhere in the Mediterranean Sea coast&lt;/p&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;&lt;/p&gt;
+&lt;h3&gt;Why owning a website when there’s Medium and other social networks?&lt;/h3&gt;
+&lt;p&gt;Up to this point, I did not really want to publish detailed articles in social networks (but hey, there was a lot to write about) because the format of posts there does not allow me to make them the way I want: longreads, with graphs, photo galleries inside the text, code examples, quotes, built-in audio / video blocks, tables, etc.&lt;/p&gt;
+&lt;p&gt;Of course, it was possible to start publishing posts on special platforms, such as Medium, etc. But the problem is that my audience (&lt;em&gt;currently it’s just friends/coworkers/ex-colleagues/relatives&lt;/em&gt;) is scattered in a variety of social networks and publishing platforms, in 2 different languages (English and Russian). So I descided to have a single source (this blog) where I can put all my posts, regardless of language or interests.&lt;/p&gt;
+&lt;!--
+Mention here that I also wanted to make it possible to swithc easily between languages
+on a single site, because articles will be interesting for both
+and I didn&apos;t want to mix their feed (in case of Medium, Instagram) in 2 different languages
+--&gt;
+&lt;p&gt;After the article will be published in this blog, I’ll be able to share a link to it (or make a repost) in a specific social network or platform. Also it will be possible to share articles only on those topics and languages that would be directed to a specific audience, depending on the interests of readers and platform (VK, Instagram, LinkedIn, Twitter, Habr, Medium, Hacker News, Reddit, vc.ru, LifeHacker, etc.).&lt;/p&gt;
+&lt;p&gt;For example. I will probably share an article written in English with title “Clean architecture in Web applications” on Twitter, LinkedIn and HackerNews. Tips on how to competently do tax deduction for self-employed in Russian Federation probably will be shared in VK, Habr and VC. Various lifehacks and non-technical articles could be written in both languages and shared in all platforms, depending on language.&lt;/p&gt;
+&lt;p&gt;Also, not to mention the fact that on your own site you can do anything you want. Dark UI theme and filtering of articles by interests will arrive soon 😉.&lt;/p&gt;
+&lt;h3&gt;What I’ll write about&lt;/h3&gt;
+&lt;p&gt;I’ll publish articles on a variety of topics that are interesting to me. First of all it is software developement and lifestyle but not limited on that. Also there will be articles about travel, business, finances, lifehacks, short notes on the books read, commented links to interesting articles, reports from trips, and much more!&lt;/p&gt;</content:encoded></item></channel></rss>
